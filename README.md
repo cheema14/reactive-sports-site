@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create Sports News App
 
 This project in under development.
 It gets sports news, particularly football news from multiple news channels. 
